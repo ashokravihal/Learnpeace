@@ -6,8 +6,8 @@ body {
 }
 
 .coll {
-  width: 600px;
-  height: 300px;
+  width: 650px;
+  height: 350px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -29,8 +29,8 @@ h2 {
 }
 
 .coll-2 {
-  width: 700px;
-  height: 250px;
+  width: 750px;
+  height: 300px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -54,8 +54,8 @@ h2 {
 }
 
 .coll-3 {
-  width: 750px;
-  height: 300px;
+  width: 800px;
+  height: 350px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -79,8 +79,8 @@ h2 {
 }
 
 .coll-4 {
-  width: 600px;
-  height: 250px;
+  width: 650px;
+  height: 300px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -102,8 +102,8 @@ h2 {
 }
 
 .coll-5 {
-  width: 700px;
-  height: 200px;
+  width: 750px;
+  height: 250px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -121,8 +121,8 @@ h2 {
 }
 
 .coll-6 {
-  width: 900px;
-  height: 200px;
+  width: 950px;
+  height: 250px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
