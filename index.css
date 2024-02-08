@@ -54,8 +54,8 @@ h2 {
 }
 
 .coll-3 {
-  width: 800px;
-  height: 350px;
+  width: 900px;
+  height: 450px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -66,7 +66,7 @@ h2 {
   display: inline-block;
   position: relative;
   left: -80px;
-  top: 20px;
+  top: 10px;
 }
 
 .coll-3 h2 {
